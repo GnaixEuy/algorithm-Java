@@ -1,4 +1,4 @@
-package 第一天;
+package 算法入门.第一天;
 
 /**
  * <img src="http://blog.gnaixeuy.cn/wp-content/uploads/2022/06/bug.png"/>

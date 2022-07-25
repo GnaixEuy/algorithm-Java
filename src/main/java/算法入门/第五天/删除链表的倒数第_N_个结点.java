@@ -56,6 +56,7 @@ public class 删除链表的倒数第_N_个结点 {
                 stack.pop();
             }
             ListNode prev = stack.peek();
+            assert prev != null;
             prev.next = prev.next.next;
             return dummy.next;
         }

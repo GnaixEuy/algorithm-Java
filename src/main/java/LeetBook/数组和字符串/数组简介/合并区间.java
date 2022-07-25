@@ -1,4 +1,4 @@
-package LeetBook.数组和字符串;
+package LeetBook.数组和字符串.数组简介;
 
 import java.util.*;
 

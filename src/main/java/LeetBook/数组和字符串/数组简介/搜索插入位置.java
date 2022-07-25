@@ -1,4 +1,4 @@
-package LeetBook.数组和字符串;
+package LeetBook.数组和字符串.数组简介;
 
 /**
  * <img src="http://blog.gnaixeuy.cn/wp-content/uploads/2022/06/bug.png"/>

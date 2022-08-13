@@ -20,6 +20,7 @@ public class 位运算交换 {
         a = a ^ b;
         System.out.println("a = " + a);
         System.out.println("b = " + b);
+        System.out.println(1999999999 + 9);
     }
 
 }
